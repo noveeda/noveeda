@@ -1,15 +1,16 @@
-### Hi there 👋
+### 어서오십셔 👋
 #### 좋아하는 언어  
 * Java  
 * C#
 * Javascript  
   
 #### 해보고 싶은 언어  
-* Kotlin  
 * C++  
+
+#### 해보고 싶은 것
+* Unreal  
   
 #### 다룰줄 아는거  
-* Android Studio  
 * Unity
 
   ![DelPointer's github stats](https://github-readme-stats.vercel.app/api?username=DelPointer&theme=tokyonight)
