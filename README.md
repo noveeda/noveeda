@@ -14,7 +14,7 @@
 #### ⚡My Coding Stats⚡
   ![DelPointer's github stats](https://github-readme-stats.vercel.app/api?username=DelPointer&theme=tokyonight)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelPointer&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelPointer&theme=tokyonight&layout=compact)
 <!--
 **DelPointer/DelPointer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
