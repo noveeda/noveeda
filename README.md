@@ -2,7 +2,7 @@
 #### 🌱 I’m currently learning these language
 * C
 * C#
-* C++
+![C++](https://img.shields.io/badge/-C++-f7df1e?style=for-the-badge&logo=javascript&logoColor=000) 
 ![JavaScript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000) 
 * Java  
 * Kotlin
