@@ -1,17 +1,15 @@
 ### 어서오십셔 👋
-#### 좋아하는 언어  
+#### 🌱 I’m currently learning these language
 * Java  
 * C#
-* Javascript  
+* C++
+* Javscript  
   
-#### 해보고 싶은 언어  
-* C++  
+#### I wanna learn these langauge
+* Kotlin
 
-#### 해보고 싶은 것
+#### I wanna do these
 * Unreal  
-  
-#### 다룰줄 아는거  
-* Unity
 
 #### My Coding Stats
   ![DelPointer's github stats](https://github-readme-stats.vercel.app/api?username=DelPointer&theme=tokyonight)
