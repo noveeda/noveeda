@@ -1,4 +1,4 @@
-### 어서오십셔 👋
+### Welcome My github 👋
 #### 🌱 I’m currently learning these language
 * Java  
 * C#
