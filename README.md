@@ -1,6 +1,6 @@
 ### Welcome My github 👋
 #### 🌱 I’m currently learning these language
-* 
+* C
 * C#
 * C++
 * Javscript  
