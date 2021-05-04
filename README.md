@@ -1,15 +1,11 @@
 ### Welcome My github 👋
 #### 🌱 I’m currently learning these language
-* Java  
+* 
 * C#
 * C++
 * Javscript  
-  
-#### 🌱 I wanna learn these langauge
+* Java  
 * Kotlin
-
-#### 😄 I wanna do these
-* Unreal  
 
 #### ⚡My Coding Stats⚡
   ![DelPointer's github stats](https://github-readme-stats.vercel.app/api?username=DelPointer&theme=tokyonight)
