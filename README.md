@@ -5,13 +5,13 @@
 * C++
 * Javscript  
   
-#### I wanna learn these langauge
+#### 🌱 I wanna learn these langauge
 * Kotlin
 
-#### I wanna do these
+#### 😄 I wanna do these
 * Unreal  
 
-#### My Coding Stats
+#### ⚡My Coding Stats⚡
   ![DelPointer's github stats](https://github-readme-stats.vercel.app/api?username=DelPointer&theme=tokyonight)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelPointer&theme=tokyonight)
