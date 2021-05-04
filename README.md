@@ -3,7 +3,7 @@
 * C
 * C#
 * C++
-* Javscript  
+![JavaScript](https://img.shields.io/badge/-Javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000) 
 * Java  
 * Kotlin
 
