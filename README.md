@@ -13,7 +13,7 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DelPointer&theme=tokyonight&layout=compact)  
   
  ### TODO
-- [ ] CodeUp 기초 100제 풀이
+- [X] CodeUp 기초 100제 풀이
 - [ ] 백준 그리디 알고리즘 50제 풀이
 - [ ] 백준 탐색 알고리즘 50제 풀이
 - [ ] 백준 기초 동적프로그래밍 50제 풀이
