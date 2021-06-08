@@ -1,5 +1,5 @@
 ### Welcome My github 👋
-#### 🌱 I’m currently learning these language
+#### 🌱 I’m currently learning these languages
 * C
 * C#  
 * C++
