@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Delp's Profile👋👋</h1>
+<h1 align="center">👋Welcome to Delp's Profile👋</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delpointer" alt="delpointer" /></a> </p>
 
 #### 🌱 I’m currently learning these languages
