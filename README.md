@@ -1,15 +1,15 @@
 ### Welcome My github 👋
+
+
+
+<h1 align="center">Welcome to Delp's Profile👋👋</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delpointer" alt="delpointer" /></a> </p>
 #### 🌱 I’m currently learning these languages
 * C
 * C#  
 * C++
 * Java  
 * Kotlin
-
-#### ⚡My Coding Stats⚡
-<h1 align="center">안녕하세여! 저는 Delp라고 해여! 👋👋</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delpointer" alt="delpointer" /></a> </p>
-
 - 🌱 I’m currently learning **C++ & Kotlin**
 
 
