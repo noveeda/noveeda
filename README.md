@@ -4,14 +4,14 @@
 
 <h3 align="left">Trophy</h2>
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=delpointer" alt="delpointer" />
   </a> 
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> 
