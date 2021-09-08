@@ -4,7 +4,11 @@
 
 <h3 align="left">Trophy</h2>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delpointer" alt="delpointer" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=delpointer" alt="delpointer" />
+  </a> 
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -39,35 +43,10 @@
   </a> 
 </p>
 
-<ul style="list-style:none">
-  <li>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=delpointer&show_icons=true&locale=en&layout=compact" alt="delpointer" />
-    </p>
-  </li>
-  <li>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=delpointer&show_icons=true&locale=en" alt="delpointer" />
-    </p>
-  </li>
-  <li>
-    <p>
-      <a href="https://solved.ac/profile/ins1500" target="_blank"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ins1500"></a>
-    </p>
-  </li>
-<ul>
-  
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=delpointer&show_icons=true&locale=en&layout=compact" alt="delpointer" /> </p>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=delpointer&show_icons=true&locale=en" alt="delpointer" /> </p>
+  <p align="left"> <a href="https://solved.ac/profile/ins1500" target="_blank"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ins1500"></a> </p>
 
-
-
-
-
-
-
-  
-  
-  
-  
   
  ### TODO
 - [X] CodeUp 기초 100제 풀이
@@ -76,7 +55,7 @@
 - [ ] 백준 Sort Algorithm 50제 풀이
 - [ ] 백준 Search Algorithm 50제 풀이
 - [ ] 백준 DP 50제 풀이
-- [ ] 기출문제 풀이(프로그래머스; 카카오, 코드포스 블루 레벨, 삼성 역량 테스트 B형)
+- [ ] 기출문제 풀이(카카오 프로그래머스, 코드포스 블루 레벨, 삼성 역량 테스트 B형)
 - [ ] 깃허브 한달 커밋 채우기
 
 <!--
