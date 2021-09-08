@@ -4,7 +4,7 @@
 
 <h3 align="left">Trophy</h2>
 
-<p align="center"> 
+<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=delpointer" alt="delpointer" />
   </a> 
@@ -44,10 +44,13 @@
 </p>
 
 <h3>Delp's Stats</h3>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=delpointer&show_icons=true&locale=en&layout=compact" alt="delpointer" /> </p>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=delpointer&show_icons=true&locale=en" alt="delpointer" /> </p>   
+  <p align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=delpointer&show_icons=true&locale=en&layout=compact&theme=buefy" alt="delpointer" /> 
+  </p>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=delpointer&show_icons=true&locale=en&theme=buefy" alt="delpointer" /> </p>   
   
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Delp" alt="delpointer"/> </p>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Delp&v=2&layout=default&theme=buefy&hide=html,json,kotlin,xml,other,git config,xaml,text,typescript" alt="delpointer" /> </p>
+
   <p align="left"> <a href="https://solved.ac/profile/ins1500" target="_blank"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ins1500"></a> </p>
 
   
