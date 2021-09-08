@@ -50,7 +50,10 @@
   
  ### TODO
 - [X] CodeUp 기초 100제 풀이
-- [ ] 백준 100문제 풀이
+- [ ] 백준 100제 풀이
+- [ ] 백준 200제 풀이
+- [ ] 백준 골드 티어 달성
+- [ ] 백준 플레 티어 달성
 - [ ] 백준 Greedy Algorithm 50제 풀이
 - [ ] 백준 Sort Algorithm 50제 풀이
 - [ ] 백준 Search Algorithm 50제 풀이
