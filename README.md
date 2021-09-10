@@ -44,14 +44,21 @@
 </p>
 
 <h3>Delp's Stats</h3>
+  <!-- BOJ Stats -->
+  <p align="left"> <a href="https://solved.ac/profile/ins1500" target="_blank"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ins1500"></a> </p>
+  
+  <!-- Delp's Github Stats -->
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=delpointer&show_icons=true&locale=en&theme=buefy" alt="delpointer" /> </p>   
+  
+  <!-- Most used Languages -->
   <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=delpointer&show_icons=true&locale=en&layout=compact&theme=buefy" alt="delpointer" /> 
   </p>
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=delpointer&show_icons=true&locale=en&theme=buefy" alt="delpointer" /> </p>   
   
+  <!-- Wakatime Stats -->
   <p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Delp&v=2&layout=default&theme=buefy&hide=html,json,kotlin,xml,other,git config,xaml,text,typescript" alt="delpointer" /> </p>
 
-  <p align="left"> <a href="https://solved.ac/profile/ins1500" target="_blank"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ins1500"></a> </p>
+  
 
   
  ### TODO
