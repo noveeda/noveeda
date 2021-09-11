@@ -13,7 +13,7 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
 
-## Cards
+## 🏆 Cards
   <!-- BOJ Stats -->
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ins1500)](https://solved.ac/ins1500)
   <!-- Delp's Github Stats -->
@@ -21,7 +21,7 @@
   <!-- Wakatime Stats -->
   ![Wakatime Card](https://github-readme-stats.vercel.app/api/wakatime?username=Delp&v=2&layout=default&theme=buefy&hide=html,json,kotlin,xml,other,git%20config,xaml,text,typescript)
   
- ## TODO
+ ## ☑️ TODO
 - [X] CodeUp 기초 100제 풀이
 - [ ] 백준 100제 풀이
 - [ ] 백준 200제 풀이
