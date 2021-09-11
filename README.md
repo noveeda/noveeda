@@ -1,67 +1,29 @@
 
 
-<h1 align="center">👋Welcome to Delp's Profile👋</h1>
+# <h1 align=center>👋Welcome to Delp's Profile👋</h1>  
 
-<h3 align="left">Trophy</h2>
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&animation=fadeIn&fontAlignY=36&section=header&text=Hi,%20I'm%20Delp👋&fontSize=36)  
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=delpointer" alt="delpointer" />
-  </a> 
-</p>
+- Gunsan University, School of Computer Information Engineering
+- Algorithm Learner / Unity Developer
 
 
-<h3 align="left">Languages and Tools</h3>
+## 📫 Skills 
 
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://kotlinlang.org" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://unity.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
-  </a> 
-</p>
 
-<h3>Delp's Stats</h3>
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+
+## Cards
   <!-- BOJ Stats -->
-  <p align="left"> <a href="https://solved.ac/profile/ins1500" target="_blank"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ins1500"></a> </p>
-  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ins1500)](https://solved.ac/ins1500)
   <!-- Delp's Github Stats -->
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=delpointer&show_icons=true&locale=en&theme=buefy" alt="delpointer" /> </p>   
-  
-  <!-- Most used Languages -->
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=delpointer&show_icons=true&locale=en&layout=compact&theme=buefy" alt="delpointer" /> 
-  </p>
-  
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=delpointer&show_icons=true&locale=en&theme=buefy)
   <!-- Wakatime Stats -->
-  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Delp&v=2&layout=default&theme=buefy&hide=html,json,kotlin,xml,other,git config,xaml,text,typescript" alt="delpointer" /> </p>
-
+  ![Wakatime Card](https://github-readme-stats.vercel.app/api/wakatime?username=Delp&v=2&layout=default&theme=buefy&hide=html,json,kotlin,xml,other,git%20config,xaml,text,typescript)
   
-
-  
- ### TODO
+ ## TODO
 - [X] CodeUp 기초 100제 풀이
 - [ ] 백준 100제 풀이
 - [ ] 백준 200제 풀이
