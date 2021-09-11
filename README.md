@@ -1,8 +1,8 @@
 
 
-# <h1 align=center>👋Welcome to Delp's Profile👋</h1>  
+# <h1 align=center>👋 Hi, there! 👋</h1>  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&animation=fadeIn&fontAlignY=36&section=header&text=Hi,%20I'm%20Delp👋&fontSize=36)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&animation=fadeIn&fontAlignY=36&section=header&text=Hi,%20I'm%20Delp😄&fontSize=36)  
 
 - Gunsan University, School of Computer Information Engineering
 - Algorithm Learner / Unity Developer
