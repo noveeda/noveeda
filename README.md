@@ -2,9 +2,9 @@
 
 # <h1 align=center>👋 Hi, there! 👋</h1>  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&animation=fadeIn&fontAlignY=36&section=header&text=Hi,%20I'm%20Delp😄&fontSize=36)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&animation=fadeIn&fontAlignY=36&section=header&text=Hi,%20I'm%20Nove😄&fontSize=36)  
 
-- Gunsan University, School of Computer Information Engineering
+- School of Computer Information Engineering
 - Algorithm Learner / Unity Developer
 
 
@@ -16,7 +16,7 @@
   <!-- BOJ Stats -->
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ins1500)](https://solved.ac/ins1500)
   <!-- Delp's Github Stats -->
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=delpointer&show_icons=true&locale=en&theme=buefy)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=noveeda&show_icons=true&locale=en&theme=buefy)
   <!-- Wakatime Stats -->
   ![Wakatime Card](https://github-readme-stats.vercel.app/api/wakatime?username=Delp&v=2&layout=default&theme=buefy&hide=html,json,kotlin,xml,other,git%20config,xaml,text,typescript)
   
