@@ -18,7 +18,8 @@
   <!-- Delp's Github Stats -->
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=noveeda&show_icons=true&locale=en&theme=buefy)
   <!-- Wakatime Stats -->
-  ![Wakatime Card](https://github-readme-stats.vercel.app/api/wakatime?username=nove&v=2&layout=default&theme=buefy&hide=html,json,kotlin,xml,other,git%20config,xaml,text,typescript)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=nove&v=2&layout=compact&theme=buefy&hide=html,json,other,git%20config,xaml,text,xml,yaml,bash,properties,gradle,csv,gitignore%20file,groovy,ini,idea_module,markdown,jade,css)
+
   
  ## ☑️ TODO
 - [X] CodeUp 기초 100제 풀이
