@@ -7,6 +7,12 @@
 - School of Computer Information Engineering
 - Algorithm Learner / Unity Developer
 
+### Certifications
+
+- Microsoft Certified: Azure AI Fundamentals (AI-900)  
+  [![Microsoft Certified: Azure AI Fundamentals](assets/ai-900.png)](https://www.credly.com/badges/149814fc-65d1-4c82-9998-8ce1322fdb88/public_url)
+
+  
 
 ## 📫 Skills 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
