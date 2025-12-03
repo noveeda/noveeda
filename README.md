@@ -10,7 +10,7 @@
 ### Certifications
 
 - Microsoft Certified: Azure AI Fundamentals (AI-900)  
-  [![Microsoft Certified: Azure AI Fundamentals](assets/ai-900.png)](https://www.credly.com/badges/149814fc-65d1-4c82-9998-8ce1322fdb88/public_url)
+  [![Microsoft Certified: Azure AI Fundamentals](microsoft-certified-azure-ai-fundamentals.png)](https://www.credly.com/badges/149814fc-65d1-4c82-9998-8ce1322fdb88/public_url)
 
   
 
